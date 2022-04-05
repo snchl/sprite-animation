@@ -1,0 +1,23 @@
+@import './reset';
+
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  margin-top: 60px;
+
+  h1 {
+    font-size: xx-large;
+    font-weight: bold;
+  }
+  h2 {
+    font-size: x-large;
+    font-weight: bold;
+  }
+
+  #canvas {
+    margin: 60px 0;
+    border: 1px solid black;
+  }
+}
